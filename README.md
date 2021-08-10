@@ -1,2 +1,1 @@
-# ETL
-A+
+# A set of personal projects involving data analysis and machine learning
